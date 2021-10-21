@@ -2,7 +2,7 @@
 
 ' Mapper VB v1.0.0
 ' Copyright (c) 2021, Emanuel Rojas Vásquez
-' https://github.com/erovas
+' https://github.com/erovas/LibreriasUtiles
 ' BSD 3-Clause License
 Public Class Mapper
 

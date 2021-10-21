@@ -1,15 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data;
-using System.Linq;
-using System.Reflection;
-
-// Mapper C# v1.0.0
+﻿// Mapper C# v1.0.0
 // Copyright (c) 2021, Emanuel Rojas Vásquez
-// https://github.com/erovas
+// https://github.com/erovas/LibreriasUtiles
 // BSD 3-Clause License
 namespace CSharp
 {
+    using System;
+    using System.Collections.Generic;
+    using System.Data;
+    using System.Linq;
+    using System.Reflection;
+
     public class Mapper
     {
         private static BindingFlags _flags = BindingFlags.NonPublic | BindingFlags.Instance;
